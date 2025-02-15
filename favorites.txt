@@ -1,3 +1,7 @@
 mish 
 peshk
 avokado
+qypi
+lypi 
+mypi
+
